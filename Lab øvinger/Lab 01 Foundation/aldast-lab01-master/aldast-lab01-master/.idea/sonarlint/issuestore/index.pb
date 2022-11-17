@@ -1,14 +1,8 @@
 
 h
 8src/main/java/no/ntnu/idata2302/lab01/search/Search.java,d\0\d0918de7c7266ab0ab062fe5e8b9f921cb093af5
-^
-.src/main/java/no/ntnu/idata2302/lab01/RSP.java,f\1\f13d4872164020ff65809d6141bca5897b86e998
-b
-2src/main/java/no/ntnu/idata2302/lab01/Minimum.java,a\f\af35a196f94f0c039b60311f8e0c7a8e3a396a02
 c
 3src/main/java/no/ntnu/idata2302/lab01/Triangle.java,0\d\0d4f61f6a848657edf5e0edc89ee2ac68e76dcc1
-i
-9src/main/java/no/ntnu/idata2302/lab01/Multiplication.java,8\d\8d72b3ae3a49a81c375c7e3855208f670ebce430
 g
 7src/test/java/no/ntnu/idata2302/lab01/MySearchTest.java,a\4\a4089c9eda8ddf2d6ac487ea2f1aaf1ceb7df83d
 c
@@ -23,3 +17,9 @@ b
 2src/test/java/no/ntnu/idata2302/lab01/RSPTest.java,b\3\b32c68f34ce37d8db4fbca2e0147cedeebc2bd0d
 g
 7src/test/java/no/ntnu/idata2302/lab01/TriangleTest.java,d\5\d503a210d1bc878c2caa0a6ffec050ce07ab6577
+b
+2src/main/java/no/ntnu/idata2302/lab01/Minimum.java,a\f\af35a196f94f0c039b60311f8e0c7a8e3a396a02
+i
+9src/main/java/no/ntnu/idata2302/lab01/Multiplication.java,8\d\8d72b3ae3a49a81c375c7e3855208f670ebce430
+^
+.src/main/java/no/ntnu/idata2302/lab01/RSP.java,f\1\f13d4872164020ff65809d6141bca5897b86e998

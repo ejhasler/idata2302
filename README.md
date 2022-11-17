@@ -1,1 +1,1 @@
-# Algorithms and Datastructures idata2302 course
+# Algoritmer-idata2302
